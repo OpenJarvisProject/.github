@@ -1,2 +1,4 @@
-# .github
-Org Description
+# The OpenJarvis Project (OJP)
+The OJP org.
+
+<add detailed description later>
